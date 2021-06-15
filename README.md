@@ -6,9 +6,9 @@ This project is a prototype search website for Crystal Structures published  in 
 
 In the project directory, run:
 
-### `npm install`
+- ### `npm install`
 
-### `npm run start`
+- ### `npm run start`
 
 The application will be available on the local machine at.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
