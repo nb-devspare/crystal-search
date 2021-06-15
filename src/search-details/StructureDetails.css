@@ -1,0 +1,25 @@
+.entry-link .icon {
+    margin-left: 1rem;
+}
+
+div.overview {
+    display: inline-grid;
+    grid-row-gap: 0.3em;
+}
+
+div.overview .overview-header {
+    grid-column: 1;
+    text-align: right;
+    margin-right: 1rem;
+    padding-right: 0.5rem;
+    border-right: 3px solid;
+}
+
+div.overview .overview-content {
+    grid-column: 2;
+}
+
+div.overview div {
+    position: relative;
+    float: left;
+}
